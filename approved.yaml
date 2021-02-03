@@ -760,6 +760,7 @@ libtokenmrkers:
 
 libinline:
   - "libInline"
+  - "Utility"
 
 abfroll:
   - "ABFRoll"
