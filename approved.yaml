@@ -758,6 +758,9 @@ libtokenmrkers:
   - "libTokenMarkers"
   - "Utility"
 
+libinline:
+  - "libInline"
+
 abfroll:
   - "ABFRoll"
   - "System Toolbox"
@@ -812,6 +815,10 @@ supernotes:
 
 changemapclonetokens:
   - "ChangeMap_CloneTokens"
+  - "Utility"
+
+apilogic:
+  - "APILogic"
   - "Utility"
 
 #restandrecovery:
